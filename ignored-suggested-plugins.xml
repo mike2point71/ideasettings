@@ -1,0 +1,13 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="JRebelPlugin" />
+        <option value="com.intellij.spring" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.intellij.selenium" />
+        <option value="org.dynamodb4idea" />
+      </list>
+    </option>
+  </component>
+</application>
