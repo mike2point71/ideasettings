@@ -11,6 +11,16 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
@@ -54,6 +64,12 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
     <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaCodeVisionSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaCodeVisionSettings>
+      </JAVA.JavaLens>
       <JAVA.chain.hints>
         <Settings>
           <option name="uniqueTypeCount" value="1" />
@@ -64,12 +80,6 @@
           <option name="showInferred" value="true" />
         </Settings>
       </JAVA.annotation.hints>
-      <JAVA.JavaLens>
-        <JavaCodeVisionSettings>
-          <option name="showImplementations" value="true" />
-          <option name="showUsages" value="true" />
-        </JavaCodeVisionSettings>
-      </JAVA.JavaLens>
     </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
