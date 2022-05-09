@@ -86,6 +86,10 @@
     <option name="collapseAccessors" value="true" />
     <option name="collapseMultilineComments" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
