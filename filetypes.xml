@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="boneyard-swing" type="AUTO_DETECTED" />
+      <mapping pattern="ripcourt" type="AUTO_DETECTED" />
+      <mapping pattern="gradlestuff" type="AUTO_DETECTED" />
+      <mapping pattern="PeopleData" type="AUTO_DETECTED" />
+      <mapping pattern="boneyard" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cql" approved="true" type="SQL" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+    </extensionMap>
+  </component>
+</application>
