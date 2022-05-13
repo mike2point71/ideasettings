@@ -2,5 +2,21 @@
   <component name="aws">
     <option name="profilesNotification" value="Never" />
     <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="true" />
+    <option name="useDefaultCredentialRegion" value="Prompt" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="executablePath" value="/opt/homebrew/Cellar/aws-sam-cli/1.50.0/libexec/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1652422585010" />
+        </ExecutableState>
+      </list>
+    </option>
   </component>
 </application>
