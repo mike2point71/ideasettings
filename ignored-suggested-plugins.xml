@@ -7,6 +7,7 @@
         <option value="com.intellij.beanValidation" />
         <option value="com.intellij.selenium" />
         <option value="org.dynamodb4idea" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
