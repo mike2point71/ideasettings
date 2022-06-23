@@ -2,6 +2,8 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <option name="inlayTextColor" value="#1e7394" />
+    <option name="showIdeCompletions" value="true" />
+    <option name="enableProxySupport" value="true" />
     <option name="telemetryTermsAcceptedDate" value="2022-05-07T07:25:17.752009-07:00[America/Los_Angeles]" />
   </component>
 </application>
