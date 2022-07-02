@@ -1,5 +1,7 @@
 <application>
   <component name="GroovyApplicationSettings">
     <option name="INTRODUCE_LOCAL_SELECT_DEF" value="false" />
+    <option name="CONVERT_PARAM_SPECIFY_MAP_TYPE" value="true" />
+    <option name="CONVERT_PARAM_CREATE_NEW_PARAM" value="true" />
   </component>
 </application>
