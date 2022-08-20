@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl meta alt a" />
+  </action>
   <action id="ResourceExplorer.show" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
