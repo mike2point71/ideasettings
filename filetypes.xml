@@ -19,7 +19,6 @@
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
