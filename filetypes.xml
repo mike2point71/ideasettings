@@ -6,6 +6,7 @@
       <mapping pattern="PeopleData" type="AUTO_DETECTED" />
       <mapping pattern="boneyard-swing" type="AUTO_DETECTED" />
       <mapping pattern="boneyard" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -18,6 +19,7 @@
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
     </extensionMap>
   </component>
