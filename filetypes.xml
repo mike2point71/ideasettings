@@ -7,6 +7,7 @@
       <mapping pattern="boneyard-swing" type="AUTO_DETECTED" />
       <mapping pattern="boneyard" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
+      <removed_mapping ext="jsh" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
