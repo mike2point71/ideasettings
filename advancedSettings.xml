@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
         <entry key="editor.maximize.on.double.click" value="false" />
         <entry key="editor.open.inactive.splitter" value="false" />
         <entry key="editor.soft.wrap.force.limit" value="240" />
