@@ -38,10 +38,12 @@
         <entry key="JSPX" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="LESS" value="true" />
-        <entry key="Markdown" value="false" />
+        <entry key="Markdown" value="true" />
+        <entry key="Rust" value="true" />
         <entry key="SASS" value="true" />
         <entry key="SCSS" value="true" />
         <entry key="SQL" value="false" />
+        <entry key="Scala" value="true" />
         <entry key="Stylus" value="true" />
         <entry key="TypeScript" value="true" />
         <entry key="VTL" value="true" />
@@ -50,6 +52,7 @@
         <entry key="kotlin" value="false" />
         <entry key="protobuf" value="true" />
         <entry key="yaml" value="true" />
+        <entry key="yamlEx" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
