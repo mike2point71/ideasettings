@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="boneyard-swing" type="AUTO_DETECTED" />
       <mapping pattern="ripcourt" type="AUTO_DETECTED" />
       <mapping pattern="gradlestuff" type="AUTO_DETECTED" />
       <mapping pattern="PeopleData" type="AUTO_DETECTED" />
+      <mapping pattern="boneyard-swing" type="AUTO_DETECTED" />
       <mapping pattern="boneyard" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
