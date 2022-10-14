@@ -15,6 +15,9 @@
   <ScalaCodeStyleSettings>
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
+  <Shell_Script>
+    <option name="SWITCH_CASES_INDENTED" value="true" />
+  </Shell_Script>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
